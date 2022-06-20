@@ -9,4 +9,4 @@ Add new text
 
 добавили 4-й текст add locat text
 
-add text in the end
+made changes
